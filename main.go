@@ -22,7 +22,7 @@ const (
 	POST_INDEX = "post"
 	DISTANCE   = "200km"
 
-	ES_URL      = "http://10.128.0.2:9200"
+	ES_URL      = "http://10.128.0.4:9200"
 	BUCKET_NAME = "quinn-bucket-1"
 )
 

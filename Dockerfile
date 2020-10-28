@@ -1,5 +1,5 @@
-FROM golang:1.13.1
-MAINTAINER sean@laioffer.com
+FROM golang:1.15.2
+MAINTAINER qli387@gatech.edu
 
 WORKDIR /go/src/around
 ADD . /go/src/around
